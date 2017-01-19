@@ -1,0 +1,17 @@
+{
+  "name": "ng2-izitoast",
+  "author": "Paulo Henrique",
+  "version": "0.0.2",
+  "license": "MIT",
+  "angular-cli": {},
+  "scripts": {
+    "start": "ng serve",
+    "lint": "tslint \"src/**/*.ts\"",
+    "test": "ng test",
+    "pree2e": "webdriver-manager update",
+    "e2e": "protractor"
+  },
+  "dependencies": {
+    "izitoast": "^1.1.1"
+  }
+}
