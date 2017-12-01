@@ -1,9 +1,8 @@
 import { NgModule } from '@angular/core';
-import { Ng2IziToastComponent } from './ng2-izitoast.component';
+import { Ng2IzitoastService } from './ng2-izitoast.service';
 
 @NgModule({
-  declarations: [Ng2IziToastComponent],
-  exports: [Ng2IziToastComponent]
+  providers: [Ng2IzitoastService],
 })
 
 export class Ng2IziToastModule {}

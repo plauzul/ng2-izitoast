@@ -1,7 +1,7 @@
 {
   "name": "ng2-izitoast",
   "author": "Paulo Henrique",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
@@ -12,6 +12,6 @@
     "e2e": "protractor"
   },
   "dependencies": {
-    "izitoast": "^1.1.1"
+    "izitoast": "^1.2.0"
   }
 }
