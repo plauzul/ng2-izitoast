@@ -1,5 +1,6 @@
 ## version 1.0.0
 1. Update for Angular 5+
+2. Closed issue #3
 
 ## version 1.0.0
 1.  It's a service
