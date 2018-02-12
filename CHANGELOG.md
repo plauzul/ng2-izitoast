@@ -1,4 +1,7 @@
 ## version 1.0.0
+1. Update for Angular 5+
+
+## version 1.0.0
 1.  It's a service
 2.  Support for version 1.2.0
 
