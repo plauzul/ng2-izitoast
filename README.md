@@ -59,7 +59,7 @@ this.iziToast.show({title: "Welcome"});
 ...
 ```
 
-All options applicable to ng2-izitoast   48
+All options applicable to ng2-izitoast
 
 Argument | Default Value | Description
 :---: | :---: | ---

@@ -1,3 +1,6 @@
+## version 2.0.0
+1. Works in angular 5.x.x
+
 ## version 1.1.0
 1. Downgrade to work in angular 2.x.x and 4.x.x
 2. Closed issue #5 and #6
