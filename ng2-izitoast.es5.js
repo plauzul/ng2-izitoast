@@ -151,7 +151,7 @@ var Ng2IzitoastService = (function () {
     function (iziToastClass, options) {
         if (options === void 0) { options = null; }
         var /** @type {?} */ toast = document.querySelector(iziToastClass);
-        iziToast.hide(toast, options);
+        iziToast.hide(options, toast);
     };
     /**
      * @return {?}
