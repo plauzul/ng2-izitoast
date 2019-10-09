@@ -42,7 +42,7 @@
     "izitoast": "^1.2.0"
   },
   "peerDependencies": {
-    "@angular/core": ">=5.0.0 <6.0.0"
+    "@angular/core": ">=5.0.0 <8.0.0"
   },
   "devDependencies": {
     "@angular/common": "^5.0.0",
